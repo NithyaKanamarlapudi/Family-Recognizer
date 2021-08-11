@@ -1,0 +1,17 @@
+body{
+    background-color:lightgoldenrodyellow;
+}
+.object_names{
+    color:rebeccapurple;
+    font-size: medium;
+}
+#camera{
+    border:2px dashed cadetblue;
+    width: 300px;
+    height: 300px;
+}
+#snapshot{
+    border:2px dashed cadetblue;
+    width: 300px;
+    height: 300px;
+}
